@@ -30,7 +30,7 @@
             "type": "DISK", 
             "name": "os", 
             "properties": {
-                "size": 17179869184, 
+                "size": 34359738368, 
                 "mode": "AHCI", 
                 "source": "os"
             }
