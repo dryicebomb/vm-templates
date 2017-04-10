@@ -39,7 +39,7 @@
             "type": "NIC", 
             "name": "nic", 
             "properties": {
-                "mode": "NAT"
+                "mode": "BRIDGED"
             }
         }
     ], 
